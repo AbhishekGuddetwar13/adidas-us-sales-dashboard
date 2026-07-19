@@ -1,5 +1,5 @@
-##Adidas US Sales Dashboard
-#Project Overview
+Adidas US Sales Dashboard
+Project Overview
 
 This project presents an interactive Power BI dashboard built using Adidas US Sales data. The dashboard provides insights into revenue, profit, sales performance, regional trends, product performance, and customer purchasing behavior.
 
