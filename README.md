@@ -82,6 +82,6 @@ SQL
 Python
 Data Visualization
 
-LinkedIn: Add Your LinkedIn Profile
+LinkedIn:(https://www.linkedin.com/in/abhishekguddetwar/)
 
 GitHub: Add Your GitHub Profile
